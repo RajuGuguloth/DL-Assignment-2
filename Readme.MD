@@ -2,6 +2,8 @@
 
 - In this assignment I tried to build a CNN model using pytorch.
 
+## wandb link : https://wandb.ai/cs24m036-iit-madras-foundation/DL_Assignment2/reports/DA6401-Assignment-2--VmlldzoxMjM2NjYyOQ?accessToken=z5fiykqumyu6dtd0rh0jceyef018k5mh8kr94h0hdunaj5ep3e9f7czlhjpvkbss
+
 ## How to create a model ?
 
 ```
